@@ -2,7 +2,11 @@
 
 ## Overview
 
-This program is a GUI-based text editor with an integrated Python compiler and terminal. It allows users to write, edit, save, and run Python scripts within a single application. This project is written by Muhammad Yousaf. For any inquiries, you can reach me at yousafsahiwal3@gmail.com.
+This program is a GUI-based text editor with an integrated Python compiler and terminal. It allows users to write, edit, save, and run Python scripts within a single application. .
+
+Author
+This program is written by Muhammad Yousaf. 
+Email: yousafsahiwal3@gmail.com
 
 ## Features
 
