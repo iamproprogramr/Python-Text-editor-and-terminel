@@ -30,7 +30,7 @@ Email: yousafsahiwal3@gmail.com
 
 1. **Clone or Download the Repository**:
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/iamproprogramr/Python-Text-editor-and-terminel>
     ```
     Alternatively, you can download the ZIP file and extract it.
 
